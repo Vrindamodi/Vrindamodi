@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**Vrindamodi/Vrindamodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Vrinda Modi  
+A passionate **Software Developer** and aspiring **Full-Stack Engineer** based in West Bengal, India.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+I enjoy turning ideas into reality through clean, efficient, and scalable code. With a strong foundation in both **backend and frontend technologies**, I focus on building applications that are impactful, user-friendly, and performance-driven.  
+
+---
+
+### 🛠️ Tech Stack  
+- **Languages:** Java, C++, Python, PHP  
+- **Databases:** MySQL, Oracle  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Specialization:** Software Development | Full-Stack Development  
+
+---
+
+### 📫 Connect with Me  
+- GitHub: [Vrindamodi](https://github.com/Vrindamodi)  
+- LinkedIn: [linkedin.com/in/vrindamodii](https://www.linkedin.com/in/vrindamodii)  
+- Email: vrindamodi21@gmail.com  
+
+---
+
+💡 *Always learning, always building.*  
